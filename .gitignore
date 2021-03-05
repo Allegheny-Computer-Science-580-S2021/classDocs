@@ -141,3 +141,10 @@ tags
 # Libre Office #
 # ####################
  *.odp#
+
+
+# Hidden files from Python3 #
+################################
+.bash_history
+.python_history
+
